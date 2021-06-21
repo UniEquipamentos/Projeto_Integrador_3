@@ -1695,3 +1695,19 @@ html {
     color: #fff;
     font-size: 16px;
   }
+
+#titulo{
+border-radius: 25px;
+}
+
+table, th, td{
+
+border: 1px solid black;
+border-collapse: collapse;
+padding: 13px
+
+}
+
+h2, h3{
+  font-family: sans-serif;
+}
