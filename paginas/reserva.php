@@ -44,14 +44,14 @@
 <img style="width: 100%" src="../imagens/banner.png">
 <div class="content padding" style="max-width:1564px">
 <div style="margin-top: 5px;" class="container padding-16"></div>
-<h1>Reserva feita com sucesso!<br> Aguarde nosso retorno.</h1>
+<h1>Reserva feita com sucesso!<br>Aguarde nosso retorno.</h1>
 
 <div align="center">
 <img src="../imagens/like.jpg">
 </div>
 </div>
 
-	<pre style="font-family: helvetica;"><b>
+	<pre style="font-family: helvetica;"><br>
 <span style="color:white; font-size: 50px; border-style: solid; border-color: blueviolet; background-color: blueviolet; border-radius: 55px; height: 25%; width: 25%;">REGRAS DE EMPRÉSTIMO</span>
 
 a) A Cessão dos equipamentos eletrônicos será de uso exclusivo nas
@@ -75,7 +75,7 @@ b) Instalar ou desinstalar qualquer programa nos equipamentos;<br>
 c) Alterar a configuração do equipamento;<br>
 d) Violar os lacres de segurança do equipamento;<br>
 e) Emprestar os equipamentos eletrônicos a outra(s) pessoa(s);<br>
-f) Uso dos equipamentos eletrônicos para jogos eletrônicos;<br><br></b></pre>
+f) Uso dos equipamentos eletrônicos para jogos eletrônicos;<br><br></br></pre>
 
 
     <pre style="font-family: helvetica;">
@@ -96,7 +96,7 @@ c) O usuário que retirar qualquer material eletrônico sem a devida
 autorização, ficará impedido de utilizar os serviços de empréstimo por 6 meses.</strong></pre>
 <div style="margin-top: 60px;" class="container padding-32"></div>
 <footer class="center black padding-64">
-	<p>Desenvolvido por <b>UNI</b> Equipamentos</a></p>
+	<p>Desenvolvido por <b>UNI</b> Equipamentos</p>
   </footer>
 
 </body>

@@ -66,17 +66,16 @@
       <p><li>GPU NVIDIA MX110</li></p>
       <p><li>Multi Device Experience</li></p>
       <p><li>Tela Antirreflexiva</li></p> 
-      <p><li>Resolução FHD</li></p><br> </ul></div>
-
-    </div>  <img style="width: 100%" src="../imagens/banner.png">
-    <div id="Drinks" class="w3-container menu w3-padding-48 w3-card">
+      <p><li>Resolução FHD</li></p></ul><br>
       
-      <form action="/action_page.php" target="_blank">
+      </div>
+    </div>  <img style="width: 100%" src="../imagens/banner.png">
+
+    <div id="Drinks" class="w3-container menu w3-padding-48 w3-card">
+      <form action="/action_page.php" >
     
         <div class="w3-container" id="where" style="padding-bottom:32px;">
             <div class="w3-content" style="max-width:700px">
-             
-              <form action="/action_page.php" target="_blank">
                 <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Nome" required name="Nome"></p>
                 <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="E-mail" required name="E-mail"></p>
                 <input id="date" type="date">
