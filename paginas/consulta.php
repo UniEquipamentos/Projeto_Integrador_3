@@ -59,7 +59,7 @@
 
 				<input type="button" name="regd" value="Cadastrar dados">
 
-			</div>
+			
 
 <hr>
 	</div>
@@ -121,7 +121,7 @@
 	</table>
 
 </div>
-</div>
+
 <div style="margin-top: 60px;" class="container padding-32"></div>
 <footer class="center black padding-64">
   <p>Desenvolvido por <b>UNI</b> Equipamentos</p>
